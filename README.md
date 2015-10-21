@@ -5,3 +5,4 @@
 ## Additional Software:
 
 * [confd](https://github.com/kelseyhightower/confd)
+* [gosu](https://github.com/tianon/gosu)
